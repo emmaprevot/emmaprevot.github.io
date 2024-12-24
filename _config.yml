@@ -24,7 +24,7 @@ author:
   avatar           : "emmaprofile.png"
   name             : "Emma Prevot"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Oxford, UK"
   employer         : "University of Oxford"
   uri              : # URL
