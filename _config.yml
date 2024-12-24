@@ -21,7 +21,7 @@ repository               : "emmaprevot/emmaprevot.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "emmaprofile.png"
   name             : "Emma Prevot"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
