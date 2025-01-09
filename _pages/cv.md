@@ -14,6 +14,12 @@ Education
 * DPhil (PhD) in Statistics, University of Oxford, 2027 (expected)
 * MPhil in Machine Learning and Machine Intelligence, University of Cambridge, 2023
 * BSc in Physics with Medical Physics, University College London (UCL), 2022
+  
+Awards
+======
+* award1
+* award1
+* award1
 
 Work experience
 ======
