@@ -19,9 +19,9 @@ Education
   
 Awards
 ======
-* award1
-* award1
-* award1
+* **Premio Italia Giovane**: A highly prestigious award granted to only 10 Italians under 35 nationwide, recognizing their excellence and serving as an inspiration for future generations.
+* **Letter of Commendation**, University of Cambridge, Department of Engineering. Recognition of excellent performance and very high level of academic achievement.
+* **Sidney Russ Award**, UCL Department of Medical Physics and Biomedical Engineering. Award received as best performing finalist undergraduate student. Was also added to the **Dean’s List**.
 
 Work experience
 ======
