@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Full CV available at [Academic Pages template](https://github.com/academicpages/academicpages.github.io)
+
 Education
 ======
 * DPhil (PhD) in Statistics, University of Oxford, 2027 (expected)
