@@ -13,15 +13,17 @@ Full CV available at [this link](https://drive.google.com/file/d/16wU5Xgn2sjWFBs
 
 Education
 ======
-* DPhil (PhD) in Statistics, University of Oxford, 2027 (expected)
-* MPhil in Machine Learning and Machine Intelligence, University of Cambridge, 2023
-* BSc in Physics with Medical Physics, University College London (UCL), 2022
+* DPhil (PhD) in **Statistics**, University of Oxford, 2027 (expected)
+* MPhil in **Machine Learning** and Machine Intelligence, University of Cambridge, 2023
+* BSc in **Physics** with Medical Physics, University College London (UCL), 2022
   
 Awards
 ======
 * **Premio Italia Giovane**: A highly prestigious award granted to only 10 Italians under 35 nationwide, recognizing their excellence and serving as an inspiration for future generations.
 * **Letter of Commendation**, University of Cambridge, Department of Engineering. Recognition of excellent performance and very high level of academic achievement.
 * **Sidney Russ Award**, UCL Department of Medical Physics and Biomedical Engineering. Award received as best performing finalist undergraduate student. Was also added to the **Dean’s List**.
+* **Jackson Lewis Scholarship**, UCL Faculty of Engineering Sciences. A very prestigious award, given to only one recipient per Faculty each year, on the basis of academic excellence and out-standing performance.
+* **John Clifton Prize**, UCL Department of Medical Physics and Biomedical Engineering. Award received as best performing non-finalist undergraduate student.
 
 Work experience
 ======
