@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV available at [Academic Pages template](https://github.com/academicpages/academicpages.github.io)
+Full CV available at [this link](https://drive.google.com/file/d/16wU5Xgn2sjWFBsEMYMJOPa0a-Yvxfkar/view?usp=sharing)o)
 
 Education
 ======
