@@ -27,6 +27,11 @@ Awards
 
 A bit of work and a bit of research experience
 ======
+* Ongoing: Doctoral Research Student
+  * University of Oxford, Department of Statistics.
+  * Supervised by Prof Chris Holmes, Prof Thomas Nichols, Dr Habib Ganjgahi.
+  * Working with Bayesian non-parametric methods, as well as Representation Learning and Language Models, within causal inference settings for applications to the study of Multiple Sclerosis.
+
 * Ongoing: Venture Capital Student Partner
   * Giant Ventures, Oxford, UK.
   * Working as a Partner to identify scientific entrepreneurial talent and investment opportunities that
@@ -35,6 +40,11 @@ are aligned to Giant’s investment themes across climate, health, and inclusive
 * Academic year 2023/2024: Research Supervisor
   * United Italian Societies (UIS) Research Centre.
   * Supervised 3 students on a short-term research project to implement SEIR and SEIRS compartmental models and machine learning to investigate potential correlations between hospital geographic locations, mortality and vaccination rates in Italy during the COVID-19 pandemic.
+
+* Summer 2023: Postgraduate Research student
+  * University of Cambridge, MRC Biostatistics Unit.
+  * Dissertation grade: 79% – Supervised by Dr Filippo Pagani and Dr Paul D. W. Kirk.
+  * Developed a scalable Bayesian mixture model using Variational Inference for simultaneous clustering and variable selection in high-dimensional data. Enhanced inference robustness by incorporating variational annealing to overcome local-optima trap.
 
 * Summer 2021 & 2022: Software Engineer Intern
   * J.P. Morgan Chase & Co., London, UK.
