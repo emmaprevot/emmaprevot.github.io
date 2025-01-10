@@ -25,31 +25,21 @@ Awards
 * **Jackson Lewis Scholarship**, UCL Faculty of Engineering Sciences. A very prestigious award, given to only one recipient per Faculty each year, on the basis of academic excellence and out-standing performance.
 * **John Clifton Prize**, UCL Department of Medical Physics and Biomedical Engineering. Award received as best performing non-finalist undergraduate student.
 
-Work experience
+A bit of work and a bit of research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Ongoing: Venture Capital Student Partner
+  * Giant Ventures, Oxford, UK.
+  * Working as a Partner to identify scientific entrepreneurial talent and investment opportunities that
+are aligned to Giant’s investment themes across climate, health, and inclusive capitalism.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Academic year 2023/2024: Research Supervisor
+  * United Italian Societies (UIS) Research Centre.
+  * Supervised 3 students on a short-term research project to implement SEIR and SEIRS compartmental models and machine learning to investigate potential correlations between hospital geographic locations, mortality and vaccination rates in Italy during the COVID-19 pandemic.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2021 & 2022: Software Engineer Intern
+  * J.P. Morgan Chase & Co., London, UK.
+  * Worked in the Global Energy Technology team (Summer 2022) and the Futures & Options Trade Processing team (Summer 2021) within Corporate Investment Banking Technology.
+  * Was offered a returning offer to the firm after both internships.
 
 Publications
 ======
@@ -69,6 +59,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
