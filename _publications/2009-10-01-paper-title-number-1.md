@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Cluster analyses of high-dimensional data are often hampered by the presence of large numbers of variables that do not provide relevant information, as well as the perennial issue of choosing an appropriate number of clusters. These challenges are frequently encountered when analysing `omics datasets, such as in molecular precision medicine, where a key goal is to identify disease subtypes and the biomarkers that define them. Here we introduce an annealed variational Bayes algorithm for fitting high-dimensional mixture models while performing variable selection. Our algorithm is scalable and computationally efficient, and we provide an open source Python implementation, VBVarSel. In a range of simulated and real biomedical examples, we show that VBVarSel outperforms the current state of the art, and demonstrate its use for cancer subtyping and biomarker discovery.'
 date: 2024-11-28
-venue: 'arxiv, submitted to Statistical Applications in Genetics and Molecular Biology'
+venue: 'accepted at NeurIPS 2024 WiML Affinity Workshop, submitted to Statistical Applications in Genetics and Molecular Biology'
 paperurl: 'https://arxiv.org/abs/2411.19262'
 ---
 
