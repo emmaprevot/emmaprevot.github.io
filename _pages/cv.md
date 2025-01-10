@@ -51,6 +51,11 @@ are aligned to Giant’s investment themes across climate, health, and inclusive
   * Worked in the Global Energy Technology team (Summer 2022) and the Futures & Options Trade Processing team (Summer 2021) within Corporate Investment Banking Technology.
   * Was offered a returning offer to the firm after both internships.
 
+* Academic year 2021/2022: Undergraduate Research student
+  * UCL POND group, Department of Computer Science.
+  * Dissertation grade: 87% – Supervised by Dr Neil Oxtoby and Dr Cameron Shand.
+  * Applied the SuStaIn algorithm, an unsupervised machine-learning technique, across cohorts of brain MRI scans to subtype and stage individuals into distinct Alzheimer’s disease (AD) pathways.
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
