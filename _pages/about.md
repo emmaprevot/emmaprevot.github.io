@@ -14,9 +14,8 @@ I don’t just aim to excel academically—I genuinely enjoy contributing to the
 
 In my freetime ...
 ======
-I love staying active and doing things that keep me grounded. Tennis is a big part of my life — it’s not just about the physical challenge but also the mental strength it helps me build. Playing regularly keeps me focused and resilient, both on and off the court.
-When I’m not on the court, I enjoy diving into a good book. I’m especially drawn to physics and philosophy, and The Order of Time by Carlo Rovelli is a favorite that never fails to inspire me.
-Languages are another passion of mine. I’m a native speaker of Italian and French, fluent in English, and just starting to learn Spanish. Exploring different languages feels like unlocking new perspectives, and I love the connections it creates. I also spend time DJing, which has become one of my favorite creative outlets.
+I love staying active and doing things that keep me grounded. Tennis is a big part of my life — it’s not just about the physical challenge but also the mental strength it helps me build. When I’m not on the court, I enjoy diving into a good book. I’m especially drawn to physics and philosophy, and The Order of Time by Carlo Rovelli is a favorite that never fails to inspire me.
+Languages are another passion of mine. I’m a native speaker of Italian and French, fluent in English, and now learning Spanish. Exploring different languages feels like unlocking new perspectives, and I love the connections it creates. I also spend time DJing, which has become one of my favorite creative outlets.
 
 Don't hesitate to reach out if ...
 ------
