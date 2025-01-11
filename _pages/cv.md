@@ -62,5 +62,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Programming
+======
+Python - PyTorch - Tensorflow - R - MATLAB - JavaScript - Java - React
 
+Languages
+======
+Italian (Native) • French (Native) • English (Advanced) • Spanish (Beginner)
   
