@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Emma Prevot"
+title                    : "Emma Prévot"
 title_separator          : "-"
 name                     : &name "Emma Prevot"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "emmaprevot/emmaprevot.github.io"
 author:
   # Biographic information
   avatar           : "emmaprofile.png"
-  name             : "Emma Prevot"
+  name             : "Emma Prévot"
   pronouns         : "she/her"  
   bio              : "Italian and French"
   location         : "Oxford, UK"
