@@ -56,11 +56,13 @@ are aligned to Giant’s investment themes across climate, health, and inclusive
   * Dissertation grade: 87% – Supervised by Dr Neil Oxtoby and Dr Cameron Shand.
   * Applied the SuStaIn algorithm, an unsupervised machine-learning technique, across cohorts of brain MRI scans to subtype and stage individuals into distinct Alzheimer’s disease (AD) pathways.
 
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
 Programming
 ======
