@@ -2,7 +2,7 @@
 title: "Mathematics, Physics and Computer Science tutoring"
 collection: teaching
 type: "Tutor"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /oxss
 venue: "Oxford Science Studies"
 date: 2024-01-01
 location: "Oxford, UK"
